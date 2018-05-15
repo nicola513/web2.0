@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<student>
+  <student_id>s1600001</student_id>
+  <first_name>Siu Ming</first_name>
+  <last_name>Wong</last_name>
+  <sex>M</sex>
+  <phone_number>97890201</phone_number>
+  <address>Shatin Street, Shatin, N.T.</address>
+  <university>OUHK</university>
+  <subject>Computing</subject>
+  <class>Web Tech</class>
+  <year>2016</year>
+</student>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<student>
+  <student_id>s1600000</student_id>
+  <first_name>Cony</first_name>
+  <last_name>Lee</last_name>
+  <sex>F</sex>
+  <phone_number>67281902</phone_number>
+  <address>Tin Tin Estate, Tin Shui Wai, N.T.</address>
+  <university>OUHK</university>
+  <subject>Computing</subject>
+  <class>Web Tech</class>
+  <year>2016</year>
+</student>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<student>
+  <student_id>s1600002</student_id>
+  <first_name>sam</first_name>
+  <last_name>Chan</last_name>
+  <sex>M</sex>
+  <phone_number>67283911</phone_number>
+  <address>1 Smithfield Road, Kennedy Town, Hong Kong</address>
+  <university>OUHK</university>
+  <subject>Computing</subject>
+  <class>Web Tech</class>
+  <year>2016</year>
+</student>

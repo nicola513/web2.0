@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="{{ URL::asset('css/rssStyle.css') }}" ?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+  <title>School Web Site</title>
+  <link>http://localhost:8000/</link>
+  <description>Login Page</description>
+  <item>
+    <title>Student timetable updated</title>
+    <link>http://localhost:8000/student</link>
+    <description>Student can view their timetable in school website</description>
+  </item>
+  <item>
+    <title>Course Enrollment Information</title>
+    <link>http://localhost:8000/viewAllCourse</link>
+    <description>Every student can enroll course from 9/1 to 9/7</description>
+  </item>
+  <item>
+    <title>Semester end date</title>
+    <link>http://localhost:8000/</link>
+    <description>The first semester will end at 12/12</description>
+  </item>
+  <item>
+    <title>Exam period</title>
+    <link>http://localhost:8000/</link>
+    <description>Exam period will start from 12/20 to 12/31</description>
+  </item>
+</channel>
+
+</rss>
