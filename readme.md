@@ -1,4 +1,3 @@
-# web2.0
 <h1>COMPS480F Web 2.0 Technologies</h1>
 <h2>Group project </h2>
 Group Member:
