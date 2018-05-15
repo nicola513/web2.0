@@ -25,4 +25,4 @@ Group Member:
 <p>Student profile is stored in the XML format document. So, the website can get the precise student information within the document.</p>
 
 <h4>Mashup</h4>
-<p>The student can read school announcement in an RSS reader and timetable which is in content on the same page.</p># web2.0
+<p>The student can read school announcement in an RSS reader and timetable which is in content on the same page.</p>
